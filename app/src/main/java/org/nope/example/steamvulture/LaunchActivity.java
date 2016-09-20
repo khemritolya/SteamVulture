@@ -14,6 +14,7 @@ public class LaunchActivity extends AppCompatActivity {
         // Print a hello message
         print("Steam Vulture Active!");
 
+
     }
 
     private void print(Object in) {
